@@ -1,1 +1,8 @@
-
+Question
+Q.1 Write a short introduction to Git and GitHub and explain how to create a GitHub account
+Q.2 Explain how to connect local Git setup with GitHub for version control and remote repository management
+Q.3 Create a GitHub repository and demonstrate how to push code from Visual Studio Code using Git commands
+such as git add git commit git status and git push Also explain the purpose and functionality of each command
+Q.4 Fork an existing repository make changes to the project and push the updated code to your own repository 
+Additionally explain the difference between a fork and a pull operation in GitHub
+Q.5 Explain the concept of Open Source Contribution using GitHub with a suitable real world example
